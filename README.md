@@ -1,3 +1,11 @@
+Exercício realizado do Frontend Mentor.
+
+Confira o exercício acessando o link a seguir: 
+
+https://douglasmelo-dev.github.io/Frontend-Mentor-Product-Card/
+
+
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
